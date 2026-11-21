@@ -12,8 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 turn on the display
 
 ## How to test
-
-Explain how to use your project
+turn on the display
 
 ## External hardware
 no
